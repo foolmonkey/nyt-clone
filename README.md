@@ -7,6 +7,8 @@ Working on this project, I focused on using semantic HTML elements, practical CS
 -------
 
 View it live at: https://foolmonkey.github.io/nyt-clone/
+
+
 The original article here: https://www.nytimes.com/2014/03/18/science/space/detection-of-waves-in-space-buttresses-landmark-theory-of-big-bang.html?_r=0
 
 Preview
